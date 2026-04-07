@@ -1,4 +1,4 @@
-# HP Probook 430G4 - Hackintosh - MacOS Ventura/Monterey/BigSur
+# HP Probook 430G4 - Hackintosh - MacOS Ventura/Sequoia
 EFI for installing hackintosh on HP Probook 430G4 
  [Everything mostly Works Except Camera and Fingerprint Sensor]
 
