@@ -18,5 +18,6 @@ You can directly clone the repository for the EFIs.
 
 Credits:
 
-[ssimondev](https://github.com/ssimondev/) : https://github.com/ssimondev/hackintosh for helping setting up Ventura 
+[ssimondev](https://github.com/ssimondev/) : https://github.com/ssimondev/hackintosh for helping setting up Ventura
+
 [akhil-rana](https://github.com/akhil-rana/Hackintosh-HP-Probook-440-G4) : https://github.com/akhil-rana/Hackintosh-HP-Probook-440-G4 for the base EFI
