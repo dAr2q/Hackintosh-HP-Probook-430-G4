@@ -1,4 +1,4 @@
-# HP Probook 430G4 - Hackintosh - MacOS Ventura/Sequoia
+# HP Probook 430G4 - Hackintosh - MacOS Ventura
 EFI for installing hackintosh on HP Probook 430 G4 
  [Everything mostly Works Except Fingerprint Sensor and sleep]
 
