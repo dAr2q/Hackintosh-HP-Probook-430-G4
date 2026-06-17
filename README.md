@@ -1,6 +1,6 @@
 # HP Probook 430G4 - Hackintosh - MacOS Ventura/Sequoia
-EFI for installing hackintosh on HP Probook 430G4 
- [Everything mostly Works Except Camera and Fingerprint Sensor]
+EFI for installing hackintosh on HP Probook 430 G4 
+ [Everything mostly Works Except Fingerprint Sensor and sleep]
 
 
  <hr></hr>
@@ -12,7 +12,7 @@ EFI for installing hackintosh on HP Probook 430G4
 
 <hr></hr>
 
-Download EFI zips <br> or <br> Full Bootable USB disk Data including System Images (For educational purposes) <br> from [releases](https://github.com/akhil-rana/Hackintosh-HP-Probook-430-G4/releases) section.
+Download EFI zips <br> or <br> Full Bootable USB disk Data including System Images (For educational purposes) <br> from [releases](https://github.com/akhil-rana/Hackintosh-HP-Probook-440-G4/releases) section.
 
 Or you can directly clone the repository for the EFIs.
 <hr></hr>
